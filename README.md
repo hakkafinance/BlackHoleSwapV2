@@ -15,7 +15,7 @@ https://bsc.blackholeswap.com/
 
 We put real money (BUSD & USDT on mainnet) into the pool to demonstrate how our product works.
 
-Here's the introduction and demo video: [YoTube link](https://www.youtube.com/watch?v=RbzR4Y-aE5g)
+Here's the introduction and demo video: [YoTube link](https://youtu.be/44Pm7mjEGGA)
 
 ## Contract on BSC
 
