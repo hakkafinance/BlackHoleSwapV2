@@ -4,7 +4,7 @@
 
 BlackHoleSwap is a decentralized AMM (Automatic Market Making) exchange designed for stablecoins, featuring the **lowest price slippage** and **maximized capital utilization** through an optimized mathematical model.
 
-You can find more details in this [official annoucement]() by Hakka Finance
+You can find more details in this [official annoucement](https://medium.com/hakkafinance/blackholeswap-v2-on-bsc-32d51276f9bc) by Hakka Finance
 
 ## Live Demo
 
@@ -15,7 +15,7 @@ https://bsc.blackholeswap.com/
 
 We put real money (BUSD & USDT on mainnet) into the pool to demonstrate how our product works.
 
-Here's the introduction and demo video: [YoTube link]()
+Here's the introduction and demo video: [YoTube link](https://www.youtube.com/watch?v=RbzR4Y-aE5g)
 
 ## Contract on BSC
 
