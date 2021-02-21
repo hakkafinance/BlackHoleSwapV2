@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <path id="dfs11rveka" d="M0 0H16V16H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g transform="translate(-854 -159) translate(390 140) translate(464 19)">
+                    <mask id="tpetxxggib" fill="#fff">
+                        <use xlink:href="#dfs11rveka"/>
+                    </mask>
+                    <path fill="#FFF" fill-rule="nonzero" d="M13.66 5.083c.443.443.443 1.162 0 1.606L8.918 11.43c-.213.213-.501.332-.802.332-.303 0-.591-.119-.803-.331L2.57 6.689c-.444-.444-.444-1.163 0-1.606.443-.444 1.162-.444 1.606 0L8.115 9.02l3.938-3.938c.412-.412 1.062-.442 1.508-.089l.099.089z" mask="url(#tpetxxggib)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
